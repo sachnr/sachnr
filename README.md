@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sachnr)
+<p align="center">
+<a href="https://github.com/sachnr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sachnr&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sachnr&layout=compact&langs_count=8&theme=transparent"/>
+</a>
+</p>
